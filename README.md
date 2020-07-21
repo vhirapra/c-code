@@ -1,6 +1,7 @@
 # c-code
 My first couple problems that I solved
-First
+First:
+
   /*Greetings for a time (hour )in a day as per below rules- 
 Midnight to noon - Good morning  
 Noon to 5 pm - Good afternoon  
@@ -38,5 +39,6 @@ void main()
 	}
 	getch();
 }
+
 Second:
   
